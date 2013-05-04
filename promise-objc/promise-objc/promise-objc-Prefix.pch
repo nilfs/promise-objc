@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'promise-objc' target in the 'promise-objc' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
